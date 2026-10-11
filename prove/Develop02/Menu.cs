@@ -10,8 +10,8 @@ class Menu
         {
             Console.WriteLine("Welcome to the Journal Program:");
             Console.WriteLine("+=====================================+");
-            Console.WriteLine("|    1. Create new jouranl entry      |");
-            Console.WriteLine("|    2. Display journal entry         |");
+            Console.WriteLine("|    1. Create new journal entry      |");
+            Console.WriteLine("|    2. Display journal entries       |");
             Console.WriteLine("|    3. Save to file                  |");
             Console.WriteLine("|    4. Read from file                |");
             Console.WriteLine("|    5. Quit                          |");
